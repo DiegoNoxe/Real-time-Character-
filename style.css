@@ -1,0 +1,50 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: salmon;
+    font-family: cursive;
+}
+
+#write
+{
+    
+    width: 24rem;
+    height: 5rem;
+    
+}
+
+h1
+{
+    font-size: 1.8rem;
+}
+
+.container
+{
+    background-color: pink;   
+    width: 30rem;
+    height: 16rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px black;
+}
+
+.subContainerA
+{
+    padding: 2rem;
+}
+
+.subContainerB
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
